@@ -28,3 +28,6 @@ Additional Notes
 Ensure consistent naming conventions for the files in each folder.
 Verify the integrity of the images after moving to ensure no files are corrupted.
 Use this folder structure as the root directory for all data preprocessing and training scripts.
+![image](https://github.com/user-attachments/assets/c507725e-f7a2-49e7-9061-428c9e446ca3)
+![image](https://github.com/user-attachments/assets/557793ff-f49c-40da-b8cf-9ba71bd5ad47)
+
