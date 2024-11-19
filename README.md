@@ -23,14 +23,7 @@ Move the non-COVID images to the Non-COVID-19 and CT_NonCOVID folders.
 Ensure all images are saved in .png or .jpg format.
 Verify Folder Structure
 
-Your final folder structure should look like this:
-objectivec
-Copy code
-COVID-19_Lung_CT_Scans/
-├── COVID-19/
-├── Non-COVID-19/
-├── CT_COVID/
-└── CT_NonCOVID/
+
 Additional Notes
 Ensure consistent naming conventions for the files in each folder.
 Verify the integrity of the images after moving to ensure no files are corrupted.
